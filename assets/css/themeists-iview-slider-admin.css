@@ -1,0 +1,24 @@
+/* Cloneable styles */
+.cloneable
+{
+	padding: 1em 1em 0;
+	border: 1px solid rgb(223,223,223);
+	margin-bottom: 2em;
+	position: relative;
+}
+
+/* Add New button */
+.clonebutton
+{
+	margin-right: 5px;
+}
+
+.remove_clone
+{
+	position: absolute;
+	bottom: 1em;
+	right: 1em;
+}
+
+.iti-image-widget-field { overflow:hidden; zoom:1; padding-bottom:15px; }
+.iti-image-widget-image img { background:#fff; display:block; margin:10px 0 15px; border-radius:5px; border:1px solid #DFDFDF; max-width:99%; height:auto !important; }
